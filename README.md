@@ -8,4 +8,4 @@ HTML, CSS and JavaScript
 remote work with flexible hours, have fun and create new things
 - 📫 Connect with me through LinkedIn /ligiastalves
 
-- ⚡ Fun fact: I like to make arts with paper, if you want to see and support me follow my instagram @ligia.stalves
+- ⚡ Fun fact: I like to make arts with paper, if you want to see and support me follow my instagram @liliarteira.quillingart
