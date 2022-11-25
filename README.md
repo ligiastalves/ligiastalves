@@ -28,8 +28,8 @@ Conhecimentos em:
 <div align="center">
 Irei estudar futuramente
 <div style="display: inline_block"><br>
-   <img align="center" alt="Lili-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Lili-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Lili-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Lili-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
   </div>
@@ -47,4 +47,3 @@ Irei estudar futuramente
   ![Snake animation](https://github.com/ligiastalves/ligiastalves/blob/output/github-contribution-grid-snake.svg)
  </div>
  
- ⚡ Fun fact: I like to make arts with paper, if you want to see and support me follow my instagram @liliarteira.quillingart
