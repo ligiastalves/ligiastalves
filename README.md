@@ -17,5 +17,5 @@
  
 <br>
 
-## :computer: Event participant #Hacktoberfest2022 & #Hacktoberfest2025
+## :computer: Event participant #Hacktoberfest2022
 [![An image of @ligiastalves's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ligiastalves)](https://holopin.io/@ligiastalves)
